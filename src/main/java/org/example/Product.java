@@ -3,7 +3,7 @@ package org.example;
 import  java.util.ArrayList;
 import java.util.List;
 
-public class Product {
+public class Product
     private final int id;
     private final String name;
     private final double price;

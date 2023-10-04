@@ -6,7 +6,7 @@ import org.example.Order;
 import org.example.Product;
 import org.junit.jupiter.api.Test;
 
-public class ESystemTest {
+public class ESystemTest
 
     @Test
     public void testAddAndRemoveProductFromCart() {
